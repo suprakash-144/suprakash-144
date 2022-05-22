@@ -1,4 +1,4 @@
-<h1  align="center">👋 Hi, I’m suprakash </h1>
+<h1  align="center">👋 Hi, I’m Suprakash </h1>
 
 
 - 👀 I’m interested in coding ...
