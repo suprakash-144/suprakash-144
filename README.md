@@ -54,7 +54,7 @@
 </a>
 </p> 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suprakash-144&theme=radical&layout=compact&show_icons=true&locale=en" display=block width=50% height=20% alt="suprakash-144" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suprakash-144&theme=radical&layout=compact&show_icons=true&locale=en" display=block width=55% height=27% alt="suprakash-144" />
 </p>
 <!---
 suprakash-144/suprakash-144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
