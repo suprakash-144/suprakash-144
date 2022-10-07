@@ -2,8 +2,8 @@
 
 
 - 👀 I’m interested in coding ...
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning MERN and DSA ...
+- 🔭 I’m currently working on **Web development**
+- 🌱 I’m currently learning **MERN and DSA** ...
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me through email suprakashgorai14@gmail.com .
 - 📄 Know about my experiences https://suprakash-144.github.io/portfolio/index.html
@@ -54,8 +54,10 @@
 </a>
 </p> 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suprakash-144&&langs_count=6&theme=radical&layout=compact&show_icons=true&locale=en" display=block width=55% height=27% alt="suprakash-144" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suprakash-144&&langs_count=6&theme=radical&layout=compact&show_icons=true&locale=en" display=inline width=49% height=27% alt="suprakash-144" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suprakash-144&theme=radical&layout=compact&show_icons=true&locale=en"display=inline width=48% alt="suprakash-144"  />
 </p>
+<p>&nbsp;</p>
 
 <!---
 suprakash-144/suprakash-144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
