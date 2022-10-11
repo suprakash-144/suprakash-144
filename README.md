@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/suprakash-gorai/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="60" width="50" /></a>
-  <a href="https://leetcode.com/suprakashgorai144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikashgorai471" height="60" width="50" /></a>
+
 
 
 </p>
