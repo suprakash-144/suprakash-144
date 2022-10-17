@@ -34,6 +34,11 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/>
 </a>
+
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="express" width="65" height="65"/>
+</a>
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> 
 </a> 
@@ -54,8 +59,8 @@
 </a>
 </p> 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suprakash-144&&langs_count=6&theme=radical&layout=compact&show_icons=true&locale=en" display=inline width=49% height=27% alt="suprakash-144" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suprakash-144&theme=radical&layout=compact&show_icons=true&locale=en"display=inline width=48% alt="suprakash-144"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suprakash-144&&langs_count=6&theme=radical&layout=compact&show_icons=true&locale=en" display=inline width=49%  alt="suprakash-144" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suprakash-144&theme=radical&layout=compact&show_icons=true&locale=en"display=inline alt="suprakash-144"  />
 </p>
 <p>&nbsp;</p>
 
