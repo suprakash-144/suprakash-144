@@ -63,7 +63,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suprakash-144&&langs_count=6&theme=radical&layout=compact&show_icons=true&locale=en" display=inline width=49%  alt="suprakash-144" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suprakash-144&theme=radical&layout=compact&show_icons=true&locale=en"display=inline alt="suprakash-144"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=suprakash-144&theme=radical&layout=compact&show_icons=true&locale=en"display=inline width=49% alt="suprakash-144"  />
 </p>
 <p>&nbsp;</p>
 
