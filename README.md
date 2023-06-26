@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **MERN and DSA** ...
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me through email suprakashgorai14@gmail.com .
-- 📄 Know about my experiences https://suprakash-144.github.io/portfolio/index.html
+- 📄 Know about my experiences [Portfolio](https://suprakash-144.github.io/portfolio/index.html)
 
 ## Connect with me:
 <p align="left">
