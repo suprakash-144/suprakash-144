@@ -1,12 +1,9 @@
 <h1  align="center">👋 Hi, I’m Suprakash </h1>
 
 [![@suprakash144's Holopin board](https://holopin.me/suprakash144)](https://holopin.io/@suprakash144)
-- 👀 I’m interested in coding ...
-- 🔭 I’m currently working on **Web development**
-- 🌱 I’m currently learning **MERN and DSA** ...
-- 💞️ I’m looking to collaborate on projects...
-- 📫 How to reach me through email suprakashgorai14@gmail.com .
-- 📄 Know about my experiences [Portfolio](https://suprakash-144.github.io/portfolio/index.html)
+- 👀 I’m looking to collaborate on projects...
+- 📫 How to reach me through email suprakashgorai175@gmail.com .
+- 📄 Know about my experiences [Portfolio](https://porfolio-website-three.vercel.app/)
 
 ## Connect with me:
 <p align="left">
