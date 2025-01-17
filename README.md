@@ -3,15 +3,17 @@
 [![@suprakash144's Holopin board](https://holopin.me/suprakash144)](https://holopin.io/@suprakash144)
 - 👀 I’m looking to collaborate on projects...
 - 📫 How to reach me through email suprakashgorai175@gmail.com .
-- 📄 Know about my experiences [Portfolio](https://porfolio-website-three.vercel.app/)
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/suprakash-gorai/" target="_blank">
+<a href="https://www.linkedin.com/in/suprakash-gorai/" >
   <img  src="https://skillicons.dev/icons?i=linkedin"> 
 </a>
-<a href="https://porfolio-website-three.vercel.app/" target="_blank">
+<a href="https://porfolio-website-three.vercel.app/" >
   <img  src="https://skillicons.dev/icons?i=vercel"> 
+</a>
+  <a href="mailto:suprakashgorai175@gmail.com" >
+  <img  src="https://skillicons.dev/icons?i=gmail"> 
 </a>
 </p>
 
