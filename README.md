@@ -7,21 +7,21 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/suprakash-gorai/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="60" width="50" /></a>
-
-
-
+<a href="https://www.linkedin.com/in/suprakash-gorai/" target="_blank">
+  <img  src="https://skillicons.dev/icons?i=linkedin"> 
+</a>
+<a href="https://porfolio-website-three.vercel.app/" target="_blank">
+  <img  src="https://skillicons.dev/icons?i=vercel"> 
+</a>
 </p>
 
 ## My Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,nodejs,express,nextjs,postman,mongodb,firebase,mysql,">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,nodejs,express,nextjs,redis,postman,mongodb,firebase,mysql">
     <br>
-    <img  src="https://skillicons.dev/icons?i=git,github,c,cpp,python">
-    
+    <img  src="https://skillicons.dev/icons?i=git,github,c,cpp,python,cs,net">    
   </a>
 </p>
 
